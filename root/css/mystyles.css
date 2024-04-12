@@ -6,7 +6,7 @@ body{
 }
 .mb-3{
     font-family: 'Courier New', Courier, monospace;
-    color: burlywood !important;
+    color: rgb(213, 150, 68) !important;
 }
 .intro-text{
     box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.75);
