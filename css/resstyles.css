@@ -1,0 +1,52 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align:left
+}
+.h1c{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul{
+    font-family:'Courier New', Courier, monospace;
+}
+
+img{
+    border: 3px solid navajowhite;
+    padding: 1px;
+    margin: 20px;
+    width: 500px;
+    height: 700px;
+}
+
+.container {
+        display: flex;
+        align-items: top;
+      }
+      
+      .image {
+        max-width: 1000px;
+        margin-right: 20px;
+      }
+      
+      .text-content {
+        flex: 1;
+        position: top;
+      }
+        .text-content h1{
+            font-family: 'Times New Roman', Times, serif;
+            text-align: left;
+        }  
+        .text-content h2{
+            text-align: left;
+            font-style: bold;
+        }   
+a:link{
+    color: rgb(40, 67, 40);
+ }
+a:visited {
+    color:darkolivegreen
+}
+a{
+    text-align: center;
+}

@@ -1,0 +1,63 @@
+
+body{
+    background-image: url(https://westernnews.media.clients.ellingtoncms.com/img/photos/2022/08/30/etagapp_t715.png?529764a1de2bdd0f74a9fb4f856b01a9d617b3e9);
+    color: #c69d67;
+    font-family: 'Roboto Slab', 'Georgia', 'Times New Roman', 'Times', 'serif';
+    text-align: center;
+ 
+}
+
+.h1{
+    text-align: center;
+    font-family: 'Montserrat', 'Helvetica' ,'arial', 'sans-serif';
+    color: darkolivegreen;
+}
+
+h3{
+    text-decoration: underline ;
+}
+iframe{
+    position: relative;
+    border: 5px solid darkolivegreen;
+    width: 195; height: 75;
+}
+a:link{
+    color: rgb(40, 67, 40);
+}
+a:visited {
+    color:darkolivegreen
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-container img {
+    width: 30%;
+    margin: 0 10px;
+    padding: 2.5px;
+    border: 5px solid darkolivegreen;
+  }
+
+
+
+.list-container {
+    text-align: center;
+  }
+  
+  .list-container ul {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+  }
+  .list-container ol{
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+  }
+
+
+
+
+
+
